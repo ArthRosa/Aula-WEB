@@ -1,0 +1,12 @@
+/* Color Theme Swatches in Hex */
+/*.My-Color-Theme-1-hex { color: #F5D320; } */
+.destaque { color: #CDF55B; }
+/*.My-Color-Theme-3-hex { color: #F5EE5B; } */
+.principal { color: #F559C4; }
+/*.My-Color-Theme-5-hex { color: #9DF573; } */
+.background { color: #F5F1AC; }
+
+html {
+    background: #F5F1AC;
+    color: #F559C4;
+}
